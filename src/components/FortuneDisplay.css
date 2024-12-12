@@ -18,3 +18,16 @@
 
     color: #f6f6f6;
 }
+
+@media only screen and (max-width: 992px) {
+    #fortune {
+        font-size: 24px;
+    }
+    .intro {
+        font-size: 36px;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+
+}
