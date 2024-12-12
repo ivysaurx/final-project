@@ -1,0 +1,29 @@
+.emoji {
+    width: 100%;
+}
+
+#chosen-emoji {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    color: #F6F6F6;
+    font-size: 24px;
+}
+
+#pick-emoji {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    color: #F6F6F6;
+    font-size: 24px;  
+}
+
+#picker {
+    margin-left: 50%;
+}

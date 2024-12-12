@@ -1,0 +1,20 @@
+#fortune {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    text-align: center;
+    color: #F6F6F6;
+
+    width: 80%;
+
+    font-size: 36px;
+}
+
+.intro {
+    font-size: 48px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+    color: #f6f6f6;
+}
